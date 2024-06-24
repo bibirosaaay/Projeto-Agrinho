@@ -1,0 +1,68 @@
+body{
+background-color: #fcfcfe;
+}
+
+header{
+background-color: #050202;
+color: rgb(0, 255, 42);
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho{
+background-color: #f3ed84;
+color: #000000;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 5px
+}
+
+.cabecalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+padding: 24px 0;
+font-size: 50px;
+}
+
+
+.esporte-imagem{
+    width: 70%;
+}
+
+.esporte{
+    background-color: #fffff7;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+.escola-conteudo{
+    width: 70;
+}
+
+.escola-titulo{
+    padding: 8px 0;
+}
+
+.rodape{
+    background-color: #020101;
+    color:rgb(204, 39, 39);
+    display:flex;
+    justify-content: space-around;
+}
+
+.rodape-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 16px 0;
+    font-size: 24px;
+    color: white;
+}
+
+
+.esporte-imagem-brasil{
+    width: 30;
+}
